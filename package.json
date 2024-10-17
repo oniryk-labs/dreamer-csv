@@ -1,10 +1,17 @@
 {
   "name": "@oniryk/dreamer-csv",
-  "version": "0.0.1",
-  "description": "delivery lucid queries as csv",
+  "version": "0.0.5",
+  "description": "deliver adonisjs/lucid queries as csv file.",
   "main": "build/index.js",
   "type": "module",
   "types": "build/index.d.ts",
+  "keywords": [
+    "dreamer",
+    "csv",
+    "adonisjs"
+  ],
+  "repository": "https://github.com/oniryk-labs/dreamer-csv",
+  "homepage": "https://dreamer.oniryk.dev/docs/format/csv",
   "publishConfig": {
     "access": "public",
     "tag": "latest"
